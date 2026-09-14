@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-midnight-desk.vercel.app/sitemap.xml
