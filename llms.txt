@@ -1,0 +1,18 @@
+# The Midnight Desk
+
+> A free browser-based noir detective puzzle game created by Dishu san.
+
+The player investigates three mystery cases on a tactile wooden desk by dragging physical evidence and connecting related clues with red thread.
+
+## Gameplay
+
+- Drag papers, photographs, and case files around the investigation desk.
+- Pull red thread between evidence pins to connect related clues.
+- Cut incorrect threads with right-click, double-click, or a long press on touch screens.
+- Complete the correct evidence sequence to close each case.
+
+## Website
+
+- Play: https://the-midnight-desk.vercel.app/
+- No account or download is required.
+- Built with HTML, CSS, and JavaScript.
