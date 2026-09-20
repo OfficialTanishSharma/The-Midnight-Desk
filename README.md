@@ -6,6 +6,7 @@ Static browser detective game deployed from this repository to Vercel.
 
 - `index.html` — game, metadata, structured data, visible case manual, responsive layout, and local progress saving
 - `social-preview.png` — Open Graph and X/Twitter preview image
+- `favicon.ico`, PNG, SVG, and manifest assets — Google Search and browser icons
 - `sitemap.xml` — search-engine sitemap
 - `robots.txt` — crawler permissions
 - `llms.txt` — concise AI-readable project description
