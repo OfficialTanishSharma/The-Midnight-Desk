@@ -1,6 +1,6 @@
 # The Midnight Desk
 
-> A free browser-based noir detective puzzle game created by Dishu san.
+> A free browser-based noir detective puzzle game created by Rolbol (Tanish Sharma).
 
 The player investigates three mystery cases on a tactile wooden desk by dragging physical evidence and connecting related clues with red thread.
 
